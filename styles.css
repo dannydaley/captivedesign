@@ -1,0 +1,41 @@
+* {margin: 0;
+	padding: 0;
+	text-decoration: none;
+	}
+a, a:visited {text-decoration: none; color: inherit;}
+
+header {background-color: #e22834;
+		height: 100vh;
+		text-transform: uppercase;
+		font-family: 'Oswald', sans-serif;
+		font-weight: bold; font-size: 24pt;
+	}
+
+nav {border: 2px solid black;
+	width: 69vw; display: flex;
+	justify-content: space-around;
+	margin-left:15%;
+	padding-top: 15vh;
+}
+
+nav ul li {display: inline;
+	padding: 50px;
+}
+.titleLogo {border: 2px solid black; float: left; width: 14vw;/* height: 25vh;*/}
+.titleLogo img {margin-left: auto; margin-right: auto; padding-left:3vw; padding-top: 12vh;}
+.letsTalk {border: 2px solid black;
+	float: right;
+	width: 13vw;
+	padding-top: 10vh;
+	; 
+	text-align: center;}
+.hero {border: 2px solid black;
+	margin-left: 15vw;
+	width: 70vw;
+	margin-top: 15vh;
+	font-size: 45pt;
+	letter-spacing: 5px;
+}
+
+.white {color: white;
+}
