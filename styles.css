@@ -106,7 +106,12 @@ nav ul li {
 	font-size: 30pt;
 }
 
+
 .ourServicesText p, .studioText p, .techText p {
+	padding-bottom: 5vh;
+}
+
+.ourServicesText p, .studioText p {
 	padding-bottom: 5vh;
 	font-weight: lighter;
 	font-size: 20pt;
