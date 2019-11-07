@@ -72,7 +72,7 @@ nav ul li {
 	height: 70vh;
 	color: #fdfdfd;
 	padding: 20vh 12vw;
-	font-family:calibri;
+	font-family:"calibri",'Roboto', sans-serif;
 	font-weight: normal;
 }
 
@@ -187,7 +187,7 @@ nav ul li {
 	height: 35vh;
 	background-color: #1a1a1a;
 	padding: 20vh 12vw;
-	font-family: calibri;
+	font-family: "calibri",'Roboto', sans-serif;
 }
 
 
@@ -207,7 +207,7 @@ nav ul li {
 	background-color: white;
 	width: 25vw;
 	padding: 2vh 0;
-	font-family: calibri;
+	font-family: "calibri",'Roboto', sans-serif;
 	font-size: 2vw;
 }
 
