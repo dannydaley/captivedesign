@@ -84,7 +84,7 @@ nav ul li {display: inline;
 	font-size: 30pt;
 }
 
-.ourServicesText, .studioText p {padding-bottom: 5vh;
+.ourServicesText p, .studioText p {padding-bottom: 5vh;
 	font-weight: lighter;
 	font-size: 24pt;
 }
