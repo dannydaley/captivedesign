@@ -45,21 +45,21 @@ nav ul li {
 	margin-left: auto;
 	margin-right: auto;
 	padding-left:3vw;
-	padding-top: 12vh;
+	padding-top: 5vh;
 }
 
 .letsTalk {
 	float: right;
 	width: 13vw;
-	padding-top: 10vh; 
+	padding-top: 5vh; 
 	text-align: center;
 }
 
 .hero {
 	margin-left: 15vw;
 	width: 70vw;
-	margin-top: 15vh;
-	font-size: 45pt;
+	margin-top: 12vh;
+	font-size: 4vw;
 	letter-spacing: 5px;
 }
 
@@ -106,12 +106,7 @@ nav ul li {
 	font-size: 30pt;
 }
 
-
 .ourServicesText p, .studioText p, .techText p {
-	padding-bottom: 5vh;
-}
-
-.ourServicesText p, .studioText p {
 	padding-bottom: 5vh;
 	font-weight: lighter;
 	font-size: 20pt;
