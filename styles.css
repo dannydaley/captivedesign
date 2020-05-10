@@ -187,7 +187,7 @@ nav ul li {
   and (-webkit-min-device-pixel-ratio: 2) {
   	.hero {
   		 width: 95vw;
-  		margin-left: 5vw;
+  		margin-left: 20px;
   		margin-top: 16vh;
   		font-size: 8vw;
   	}
@@ -195,7 +195,7 @@ nav ul li {
   		margin-right: 39px;
   	}
   	header {
-  		min-height: 850px;
+  		min-height: 900px;
   		height: 80vh;
   	}
   	.ourServices, .studio, .tech {
