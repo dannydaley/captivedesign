@@ -185,6 +185,9 @@ nav ul li {
   and (min-device-width: 300px) 
   and (max-device-width: 900px) 
   and (-webkit-min-device-pixel-ratio: 2) {
+  	nav {
+  		padding-top: 200px;
+  	}
   	.hero {
   		 width: 95vw;
   		margin-left: 20px;
