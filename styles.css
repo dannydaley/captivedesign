@@ -197,6 +197,9 @@ nav ul li {
   	header {
   		height: 80vh;
   	}
+  	header p {
+  		margin-left: -25px;
+  	}
   	.ourServices, .studio, .tech {
   		height: 45vh;
   		padding: 10vh 10vw;
